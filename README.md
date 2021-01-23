@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Sergey
 ### I am second year CS student
-![I am second year CS student](https://cdn.pixabay.com/photo/2016/06/24/11/28/glasses-1477081_960_720.jpg)
+![I am second year CS student](https://images.wallpaperscraft.ru/image/kot_morda_ochki_tolstyy_65455_960x544.jpg)
 
 I am a second-year computer-science student at ITMO University and love algorithms+data structures.
 
